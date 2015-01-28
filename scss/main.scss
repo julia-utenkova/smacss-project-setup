@@ -1,9 +1,28 @@
+// Utilities is for variables, mixins, functions etc..
+
 @import 'utilities/index';
+
+// Base is only for default tags styling
 
 @import 'base/index';
 
+// Layout contains all layouts
+// e.g. #header, #footer etc..
+
 @import 'layout/index';
+
+// Module is for all module parts
+// which describes styles in details
+// e.g. .section, .module etc..
 
 @import 'module/index';
 
+// State contains all element states
+// e.g. hovers, active states, disabled states, errors etc..
+// is-active, :hover
+
 @import 'state/index';
+
+// All further information about SMACSS can be found 
+// here: https://smacss.com/
+// SMACSS is awesome!
