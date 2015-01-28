@@ -13,5 +13,20 @@ My custom SMACSS project setup
 <h2>Notes</h2>
 
 <p>
-  I've included in this project my favourite tools: Susy (that's the grid), Normalize, Juice (small mixins library) and of course Jade!
+  I've included in this project my favourite tools:
 </p>
+
+<ul>
+  <li>
+    1. Susy (that's the grid)
+  </li>
+  <li>
+    2. Normalize
+  </li>
+  <li>
+    3. Juice (small mixins library)
+  </li>
+  <li>
+    4. Jade
+  </li>
+</ul>
