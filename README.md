@@ -3,7 +3,7 @@ My custom SMACSS project setup
 
 <ul>
   <li>
-    1. Change the main folder name from 'smacss-project-setup' to anything you want
+    1. Change the main folder name from 'smacss-project-setup' to your project name
   </li>
   <li>
     2. Start building the project
